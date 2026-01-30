@@ -1,4 +1,8 @@
 # ☕ Cafe Finder
+
+This project is currently a work in progress.
+Core functionality has been implemented, with additional features planned.
+
 ## Overview
 Cafe Finder is a web application that helps users discover cafes based on what matters most to them—such as Wi-Fi quality, power outlet access, noise level, seating comfort, and overall rating. It’s designed for students and remote workers who want a reliable place to study or work.
 
